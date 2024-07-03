@@ -1,4 +1,5 @@
 #include "Wybor.h"
+#include<cstring>
 
 using namespace std;
 
@@ -7,6 +8,7 @@ using namespace std;
 */
 
 #ifdef Kol_2
+
 
 int main()
 {
